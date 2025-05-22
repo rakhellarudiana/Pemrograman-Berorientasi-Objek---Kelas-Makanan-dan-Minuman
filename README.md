@@ -16,7 +16,7 @@ B. APA YANG DIKERJAKAN?
 C. JUDUL
 - saya membuat project Ujian Akhir Semester Genap mata kuliah Pemrograman Berorientasi Objek yang berjudul "kelas Makanan dan Minuman" dengan gambar terambil dari link: https://quizizz.com/media/resource/gs/quizizz-media/quizzes/0d069518-a81c-413e-8b02-a5d4e88317c6?w=200&h=200
 
-D. KETERANGAN: 
+D. KETERANGAN
 - project yang saya buat ada beberapa nomor pada cara yang terbagi menjadi
 1. classes pada nomor 1
 memiliki 3 objek Makanan dan Minuman. terbagi menjadi nama, kandungan, dan kelompok. kelompok didefinisikan 'berapa kali untuk pengonsumsian?' (contoh: permen, cupcakes, cokelat, dan soda memiliki kandungan yang rendah nutrisi, tinggi kalori, lemak, serta gula. kelompok makanan dan minuman ini tidak dianjurkan untuk dikonsumsi setiap hari).
